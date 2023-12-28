@@ -1,7 +1,6 @@
 [![MasterHead](https://user-images.githubusercontent.com/90236635/232446433-d5540fa2-fe28-4bb8-b929-cdb51fe61336.gif)](https://YoBoz.io)
 
 <h1 align="center">Hi 👋, I'm Ibrahim Rathwala</h1>
-<h3 align="center">Student at Heriot Watt University</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 - 🌱 I’m currently learning **Machine Learing, Deep Learning**
 
