@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/06/60/ef/0660efe82fa3da42ed56eef013171835.gif">
 - 🌱 I’m currently learning **Machine Learing, Deep Learning**
 
-- 👨‍💻 All of my projects are available at [YoBoz.github.io](YoBoz.github.io)
+- 👨‍💻 Learn more about me [Portfolio Website](ibrahimrathwala.vercel.app)
 
 - 📫 How to reach me **ibrahimrathwala@gmail.com**
 
